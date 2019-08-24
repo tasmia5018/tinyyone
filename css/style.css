@@ -1,0 +1,71 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+
+}
+header{
+	background-color:#fff200;
+	padding: 15px 0;
+}
+.menu ul li a{
+	font-weight: 700;
+	font-size:22px;
+	color: #010101 !important;
+	padding: 0 36px !important;
+	transition: .6s;
+
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;  
+
+}
+.menu ul li a:hover{
+	color:white !important;
+
+}
+
+/*slider start*/
+.slider{
+	background-color:#fff200 ;
+	padding-bottom: 100px;
+}
+
+.cid {
+   
+    bottom: -80px;
+    
+}
+
+.cid li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+
+}
+
+.inspire{
+	margin-top: 50px;
+}
+.inspire h1{
+	
+	font-weight: 700;
+	font-size:32px;
+	}
+
+.inspire h2{
+	font-weight: 400;
+	font-size:20px;
+	
+
+
+}
+.inspire p{
+	
+	font-size:16px;
+}
+.list-inline li{
+	
+	font-size: 40px;
+    margin-right: 31px !important;
+}
+.inspire-img{}
+
